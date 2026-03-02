@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+joblib
+# Optional (only if you use --model xgb)
+# xgboost
+

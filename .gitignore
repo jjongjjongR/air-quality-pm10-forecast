@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtualenv / env
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+artifacts/
+data/processed/
+
+# Optional: keep repo light (enable if you don't want to track these)
+*.zip
+*.pptx
